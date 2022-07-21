@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "35527845849",
+    "project_id": "logistics-90579",
+    "storage_bucket": "logistics-90579.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35527845849:android:f38d7aae4e152f723b5bc8",
+        "android_client_info": {
+          "package_name": "com.example.logistics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35527845849-f7id1bqjcqdl2ju05mdi7sqdl8hu6ukd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9z2YktZbhs6c20avVvmWv8dUks8o8LSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35527845849-f7id1bqjcqdl2ju05mdi7sqdl8hu6ukd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35527845849:android:0bf9fb492a48f6863b5bc8",
+        "android_client_info": {
+          "package_name": "com.example.logistiqs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35527845849-f7id1bqjcqdl2ju05mdi7sqdl8hu6ukd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9z2YktZbhs6c20avVvmWv8dUks8o8LSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35527845849-f7id1bqjcqdl2ju05mdi7sqdl8hu6ukd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
